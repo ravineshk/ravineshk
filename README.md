@@ -69,3 +69,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravineshk&show_icons=true&locale=en&layout=compact" alt="ravineshk" /></p>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ravineshk&show_icons=true&theme=transparent&hide_border=true&width=500)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravineshk&layout=compact&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
