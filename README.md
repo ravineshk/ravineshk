@@ -40,6 +40,17 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 
+## 💻 Coding Profiles and Stats
+
+I love participating in coding challenges and contributing to online coding platforms. You can find my coding profile on the following platforms:
+
+- [LeetCode](https://leetcode.com/prajjwalchauhan_09/) - Check out my problem-solving skills!
+- [GeeksforGeeks](https://auth.geeksforgeeks.org/user/prajjwalchauhan_09/practice) - See my solutions to various coding problems!
+
+<!--![Leetcode Stats](https://leetcard.jacoblin.cool/prajjwalchauhan_09?ext=heatmap)-->
+[![jetsai's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=prajjwalchauhan_09&theme=Dark&width=500)](https://leetcode.com/prajjwalchauhan_09/)
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
