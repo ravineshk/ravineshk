@@ -1,12 +1,17 @@
 <h1 align="center">Hi 👋, I'm RAVINESH KUMAR</h1>
 <h3 align="center">A passionate PROGRAMMER from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ravineshk&label=Profile%20views&color=0e75b6&style=flat" alt="ravineshk" /> </p>
-<p align="center">
+<p align="center"> 
+ <img src="https://komarev.com/ghpvc/?username=ravineshk&label=Profile%20views&color=0e75b6&style=flat" alt="ravineshk" /> 
  <img src="https://badges.pufler.dev/repos/ravineshk"/>
- <img src="https://badges.pufler.dev/commits/monthly/ravineshk" />
+ <img src="https://badges.pufler.dev/commits/monthly/ravineshk"/>
 
 </p>
+
+- 🔭 A passionate programmer and developer with a strong inclination towards Web development, Machine Learning, Deep Learning, and Robotics. 
+- ⚡ I find immense joy in solving complex problems and exploring new technologies. 
+- 🌱 In addition to my academic pursuits, I possess a keen interest in Web development. 
+- 😄 Utilizing my skills in Java and JavaScript, I enjoy creating engaging and interactive Web experiences.
 
 - 👨‍💻 All of my projects are available at [https://ravineshkumar.me/](https://ravineshkumar.me/)
 
