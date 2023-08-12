@@ -8,7 +8,7 @@
 
 </p>
 
-- 🔭 A passionate programmer and developer with a strong inclination towards Web development, Machine Learning, Deep Learning, and Robotics. 
+- 🔭 A passionate programmer and developer with a strong inclination towards Web development, Machine Learning and Robotics. 
 - ⚡ I find immense joy in solving complex problems and exploring new technologies. 
 - 🌱 In addition to my academic pursuits, I possess a keen interest in Web development. 
 - 😄 Utilizing my skills in Java and JavaScript, I enjoy creating engaging and interactive Web experiences.
