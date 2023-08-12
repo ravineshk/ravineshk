@@ -2,6 +2,11 @@
 <h3 align="center">A passionate PROGRAMMER from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravineshk&label=Profile%20views&color=0e75b6&style=flat" alt="ravineshk" /> </p>
+<p align="center">
+ <img src="https://badges.pufler.dev/repos/ravineshk"/>
+ <img src="https://badges.pufler.dev/commits/monthly/ravineshk" />
+
+</p>
 
 - 👨‍💻 All of my projects are available at [https://ravineshkumar.me/](https://ravineshkumar.me/)
 
