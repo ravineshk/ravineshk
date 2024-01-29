@@ -1,4 +1,4 @@
-![SVG Banners](https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6)
+![SVG Banners align="center"](https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6)
 <h1 align="center">Hi 👋, I'm RAVINESH KUMAR</h1>
 <p align="center"> 
  <img src="https://badges.pufler.dev/repos/ravineshk"/>
