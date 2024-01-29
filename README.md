@@ -1,4 +1,4 @@
-![SVG Banners](https://camo.githubusercontent.com/c8626937d147ba7805f0989930848b2065807daae2202356d7201a9246c30b51/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f66732f3831626234623136353638343031392e363430623630333864313333652e676966)
+![SVG Banners](https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6)
 <h1 align="center">Hi 👋, I'm RAVINESH KUMAR</h1>
 <p align="center"> 
  <img src="https://badges.pufler.dev/repos/ravineshk"/>
